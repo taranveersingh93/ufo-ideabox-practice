@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.full-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
